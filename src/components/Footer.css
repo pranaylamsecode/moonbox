@@ -1,0 +1,14 @@
+.footer {
+    background-color: #d4a217;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .footer-item {
+    margin: 0 20px;
+  }
+  

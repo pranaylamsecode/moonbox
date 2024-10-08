@@ -1,0 +1,27 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #0d0d0d;
+  color: #fff;
+}
+
+.main-content {
+  display: flex;
+  flex: 1;
+}
+
+footer {
+  background-color: #d4a217;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  color: #000;
+}
+
+
+body {
+  background: #0d0d0d url('/') no-repeat center center fixed;
+  background-size: cover;
+  color: #d4a217;
+}
